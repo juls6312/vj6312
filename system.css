@@ -1,0 +1,17 @@
+body{
+   background-image:url("sosla.jpeg");
+   color:white;
+}
+button1{
+    background:linear-gradient(red,black);
+    margin:2;
+    color:white;
+}
+
+button2{
+    background:linear-gradient(green,black);
+    margin:0;
+    color:white;
+    
+}
+
